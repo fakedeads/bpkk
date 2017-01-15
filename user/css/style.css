@@ -2548,3 +2548,24 @@ ul.social-icons2{
 	}
 }
 /*--//responsive-design---*/
+
+.forum.table > tbody > tr > td.thread-list {
+    vertical-align: middle;
+}
+
+.forum .fa {
+    width: 1em;
+    text-align: center;
+}
+
+.forum.table th.cell-stat {
+    width: 6em;
+}
+
+.forum.table th.cell-stat-2x {
+    width: 14em;
+}
+
+.username-thread {
+    margin-top: 10px;
+}
